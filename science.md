@@ -6,77 +6,69 @@ This is the home page for the **Science** category, which includes *Mathematics*
 
 ### Mathematics
 
-**Resources**
-
-**Content**
-
 There is no content yet in this category. [Contribute some!](/contribute/index.html)
 
 ### Biology
-
-**Resources**
-
-**Content**
 
 There is no content yet in this category. [Contribute some!](/contribute/index.html)
 
 ### Chemistry
 
-**Resources**
-
-**Content**
-
 There is no content yet in this category. [Contribute some!](/contribute/index.html)
 
 ### Physics
-
-**Resources**
-
-You Gotta Know...
-
-- [Classes of Particles](https://www.naqt.com/you-gotta-know/classes-of-particles.html)
-- [Circuit Components](https://www.naqt.com/you-gotta-know/circuit-components.html)
-- [20th-Century Physicists](https://www.naqt.com/you-gotta-know/20th-century-physicists.html)
-
-Stanford Culture Guide
-
-- [Particle Physics](https://ai.stanford.edu/~csewell/culture/physics.htm)
-- [Physics](https://ai.stanford.edu/~csewell/culture/physics.htm)
-
-Qwiz5
-- [Electrons](https://www.qwizbowl.com/post/qwiz5-quizbowl-electrons)
-- [Lasers](https://www.qwizbowl.com/post/qwiz5-quizbowl-lasers)
-- [Hooke's Law](https://www.qwizbowl.com/post/qwiz5-quizbowl-hooke)
-- [Bose-Einstein Condensate](https://www.qwizbowl.com/post/qwiz5-quizbowl-bec)
-- [The Michelson-Morley Experiment](https://www.qwizbowl.com/post/qwiz5-quizbowl-michelsonmorley)
-- [Max Plaanck](https://www.qwizbowl.com/post/qwiz5-quizbowl-planck)
-
-**Content**
 
 There is no content yet in this category. [Contribute some!](/contribute/index.html)
 
 ### Earth Science
 
-**Resources**
-
-**Content**
-
 There is no content yet in this category. [Contribute some!](/contribute/index.html)
 
 ### Astronomy
-
-**Resources**
-
-[You Gotta Know These Rocket Scientists](https://www.naqt.com/you-gotta-know/rocket-scientists.html)
-
-**Content**
 
 There is no content yet in this category. [Contribute some!](/contribute/index.html)
 
 ### Computer Science
 
-**Resources**
+#### Languages
 
-**Content**
+Java
+- Developed by **Sun Microsystems**
+- Uses **applets**
+- **Statically** typed
+- Uses the **Java Virtual Machine** (JVM)
+  - This allows Java code to be run on many platforms
+- A **compiled** language
+- **Automatically** allocates memory for the user
+- Uses a **garbage collector** to free up memory
+- An **object-oriented** language
+- An **imperative** language
+  - Some **functional** support in Java is coming out, so this point may be invalidated in the future
 
-There is no content yet in this category. [Contribute some!](/contribute/index.html)
+C
+- Developed by **Dennis Ritchie**
+- **Statically** typed
+- A **compiled** language
+- A **compiled** language
+- User must **manually** allocate memory
+  - Using the **malloc** command
+- **Not** an object-oriented language
+- An **imperative language**
+
+C++
+- Effectively an extension of C
+- An **object-oriented** language
+
+Python
+- Developed by **Guido van Rossum**
+- **Dynamically** typed
+- **Does not** require semicolons at the end of lines
+- An **imperative** language, although lots of functional support exists
+- **Not** an object-oriented language
+- Popular libraries include:
+  - Numpy
+  - Pandas
+  - Urllib
+
+[I used a different guide to markdown features while making my changes, maybe it would be useful to include it?]: #
+[https://www.markdownguide.org/basic-syntax/]: #
